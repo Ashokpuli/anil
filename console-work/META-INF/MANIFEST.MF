@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: root
+Build-Jdk: 1.8.0_171
+Build-Host: 
+Build-Java: 1.8.0_171
+Build-Label: 1
+Build-Maven: Maven 3.0.5
+Build-OS: Linux
+Build-Time: 20180516-1716
+Build-User: root
+
